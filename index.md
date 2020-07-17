@@ -18,7 +18,7 @@ _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi ,
 
 
 <img src="https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG?raw=true" alt="modellf.PNG">
-## -Analyse
+## Analyse
 
 **Prozessqualität**
 1.	Die erste Schwachstelle (XOR- Gateways) entscheidet, ob das Chip Defekt ist oder nicht.
@@ -27,10 +27,10 @@ Prozess
 
 2.	Die zweite Schwachstelle entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor diese Schwachstelle wird die Studierendensekretariat innerhalb von zwei bis drei Tage über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden waren, wird diese Guthaben von Sekretariat übertragen und Studierende über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierende über einen Abholungstermin benachrichtigt.
 
-**Unser Prozess ist teilweise digital**
-Auf der Aktivität (Eventbasiertes Gateway) verwenden
+**.Unser Prozess ist teilweise digital**
+**.Auf der Aktivität (Eventbasiertes Gateway) verwenden**
 
-## -Verbesserungen
+## Verbesserungen
 Wenn die Karte nicht mehr funktioniert, bringen sie es zur Studierendensekretariat. 
 Die Guthaben Prüfung durch Studentenwerk Potsdam könnte vermieden werden, so kann eine Datenbank einrichten, in der das Studierendensekretariat Zugang zu den Informationen über das Guthaben der Studenten hat.
 
