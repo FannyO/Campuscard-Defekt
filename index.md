@@ -1,9 +1,9 @@
 _Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi , Dieffi T.Arold kevin_
 
-### Prozesszweck:
+-Prozesszweck:
 Bearbeitung eine defektcard.
 
-### Kunden und Erwartung:
+-Kunden und Erwartung:
 Die Studenten erwarten seine neue Campuscard.
 
 ### Outcome:
