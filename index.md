@@ -1,22 +1,23 @@
 _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi , Dieffi T.Arold kevin**_
 
--Prozesszweck: _Bearbeitung eine defektcard.
+-Prozesszweck: _Bearbeitung eine defektcard._
 
--Kunden und Erwartung:_Die Studenten erwarten seine neue Campuscard.
+-Kunden und Erwartung:_Die Studenten erwarten seine neue Campuscard._
 
--Outcome:_Benachrichtigen der Studierende über der Abholungstermin.
+-Outcome:_Benachrichtigen der Studierende über der Abholungstermin._
 
--Auslöser:_Studierende Secretariat.
+-Auslöser:_Studierende Secretariat._
 
--Erster Prozesschritt:_Abholung der Karte.
+-Erster Prozesschritt:_Abholung der Karte._
 
--Schnittstellen Ausgangseitig: _controlling.
+-Schnittstellen Ausgangseitig: _controlling._
 
--Schnittstellen Eingangseitig:_Transation festgeschalten.
+-Schnittstellen Eingangseitig:_Transation festgeschalten._
 
 `Bei einer Transaktion in der Hochschule Mensa stellt der Studierende fest, dass seine Campuscard nicht funktioniert, dann geht er damit zum Studentensekretariat, Einmal dort wird von der Sachbearbeiterin nach augenscheinlichen Defekten (geknickt, gelocht, eingerissen) geschaut. Falls augenscheinlicher Defekt (unsachgemäßer Umgang) wird in der Regel am selben/nächsten Tag eine Ersatzkarte ausgestellt, darüber hinaus überprüft das Studentensekretariat, ob es Geldguthaben in der alten defekten Campuscard gibt. Dies wird beim Studentenwerk Potsdam per E-Mail angefragt und ihnen nach Rückmeldung (2-3 Tage) Falls kein augenscheinlicher Defekt wird der Studierende zum Rechenzentrum geschickt mit der Bitte um Überprüfung der Campuscard, das Rechenzentrum überprüft noch mal die Campuscard mit einem bestimmten Gerät und bestätigt einen Chip oder Antennendefekt durch "Nichtmehrauslesbarkeit der Karte", teilt dem Studentensekretariat diese Meldung mit, dann geht der Studierende wieder zum Studentensekretariat, gibt die defekte Campuscard ab und lässt sich eine neue Campuscard ausstellen. Das Studentensekretariat übertragt das Geldguthaben je nach der Antwort des Studentenwerks Potsdam nach Erhalt ihrer Rückmeldung auf die neue Campuscard. Der Studierende wird über einen Abholungstermin benachrichtigt und kann seine neue Campuscard im Studentensekretariat abholen, anschließend endet der Prozess mit der Abholung der neuen Campuscard.`
 
 [Image](https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
