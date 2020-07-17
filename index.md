@@ -1,8 +1,25 @@
-## Welcome to GitHub Pages
+### Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi , Dieffi T.Arold kevin
 
-You can use the [editor on GitHub](https://github.com/FannyO/Campuscart-Defekt/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Prozesszweck:
+Bearbeitung eine defektcard.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Kunden und Erwartung:
+Die Studenten erwarten seine neue Campuscard.
+
+### Outcome:
+Benachrichtigen der Studierende &uuml;ber der Abholungstermin.
+
+## Auslöser: 
+Studierende Secretariat
+
+## Erster Prozesschritt:
+Abholung der Karte.
+
+## Schnittstellen Ausgangseitig: 
+controlling.
+
+### Schnittstellen Eingangseitig:
+Transation festgeschalten.es.
 
 ### Markdown
 
