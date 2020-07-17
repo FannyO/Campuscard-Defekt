@@ -18,34 +18,21 @@ _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi ,
 
 
 <img src="https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG?raw=true" alt="modellf.PNG">
+## -Analyse
 
-### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Prozessqualität**
+1.	Die erste Schwachstelle (XOR- Gateways) entscheidet, ob das Chip Defekt ist oder nicht.
+Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Chip oder ein Antenne Problem hat, wird der Prozess fortgesetzt. Im Fall die Karte ein anderes Problem (Wie zum Beispiel: Karte ist abgelaufen oder gesperrt, Die Karte hat ein Software Problem) hat, dann wird der Prozess beendet.
+Prozess 
 
-```markdown
-Syntax highlighted code block
+2.	Die zweite Schwachstelle entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor diese Schwachstelle wird die Studierendensekretariat innerhalb von zwei bis drei Tage über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden waren, wird diese Guthaben von Sekretariat übertragen und Studierende über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierende über einen Abholungstermin benachrichtigt.
 
-# Header 1
-## Header 2
-### Header 3
+**Unser Prozess ist teilweise digital**
+Auf der Aktivität (Eventbasiertes Gateway) verwenden
 
-- Bulleted
-- List
+## -Verbesserungen
+Wenn die Karte nicht mehr funktioniert, bringen sie es zur Studierendensekretariat. 
+Die Guthaben Prüfung durch Studentenwerk Potsdam könnte vermieden werden, so kann eine Datenbank einrichten, in der das Studierendensekretariat Zugang zu den Informationen über das Guthaben der Studenten hat.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and 
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FannyO/Campuscart-Defekt/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
