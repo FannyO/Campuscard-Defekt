@@ -19,7 +19,7 @@ _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi ,
 [Image](https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG)
 
 
-![Image](https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG)
+![https://github.com/FannyO/Campuscart-Defekt/blob/master/modellf.PNG]()
 
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
