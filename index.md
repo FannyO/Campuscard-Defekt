@@ -34,6 +34,8 @@ Prozess
 ## Verbesserungen
 Wenn die Karte nicht mehr funktioniert, bringen sie es zur Studierendensekretariat. 
 Die Guthaben Prüfung durch Studentenwerk Potsdam könnte vermieden werden, so kann eine Datenbank einrichten, in der das Studierendensekretariat Zugang zu den Informationen über das Guthaben der Studenten hat.
+
+
 **.Prozesszeit**
 
 
