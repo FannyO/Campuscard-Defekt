@@ -1,12 +1,12 @@
 _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi , Dieffi T.Arold kevin**_
 
--Prozesszweck: _Bearbeitung eines defektcard._
+-Prozesszweck: _Bearbeitung einer Defektcard._
 
 -Kunden und Erwartung:_Der Studierende erwartet auf  seine neue Campuscard._
 
--Outcome:_Benachrichtigung des Studierende über der Abholungstermin._
+-Outcome:_Benachrichtigung des Studierende über den Abholungstermin._
 
--Auslöser:_StudierentenSecretariat._
+-Auslöser:_ Studentensekretariat._
 
 -Erster Prozesschritt:_Abholung der Karte._
 
@@ -22,13 +22,13 @@ _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi ,
 
 **Prozessqualität**
 
-. Die erste Schwachstelle (XOR- Gateways) entscheidet, ob der Chip Defekt oder nicht ist.
+  Die erste Schwachstelle (XOR- Gateways) entscheidet, ob der Chip defekt oder nicht ist.
 Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Chip oder ein Antenne-Problem hat, wird der Prozess fortgesetzt. Im Fall die Karte ein anderes Problem (Wie zum Beispiel: Karte ist abgelaufen oder gesperrt, Die Karte hat ein Software Problem) hat, dann wird der Prozess beendet.
 
 
 **Prozesszeit**
 
-. Die zweite Schwachstelle (XOR-Gateways) entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor dieser Schwachstelle wird das Studierendensekretariat innerhalb von zwei bis drei Tagen über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden wäre, wird dies Guthaben von dem Sekretariat überträgt und Studierender über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierender über einen Abholungstermin benachrichtigt.
+ Die zweite Schwachstelle (XOR-Gateways) entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor dieser Schwachstelle wird das Studierendensekretariat innerhalb von zwei bis drei Tagen über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden wäre, wird dies Guthaben von dem Sekretariat überträgt und Studierender über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierender über einen Abholungstermin benachrichtigt.
 
 **Prozesskosten**
 
