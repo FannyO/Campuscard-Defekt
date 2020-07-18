@@ -41,7 +41,7 @@ Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Ch
 
 **.Prozesszeit**
 
-´´ Lösung für 2 & 3: Die Aktivität wird durch einen Service Task ersetzt ´´
+´´Lösung für 2 & 3: Die Aktivität wird durch einen Service Task ersetzt´´
 
 3) Automatisieren von noch mehr prozessschritten 
 
