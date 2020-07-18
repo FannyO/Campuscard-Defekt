@@ -43,7 +43,7 @@ Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Ch
 
 ´´Als Lösungen : -Die Aktivität wird durch einen Service Task ersetzt´´
 
-               ´´ - Automatisieren von noch mehr prozessschritten ´´
+               ´´- Automatisieren von noch mehr prozessschritten ´´
                 
 
 
