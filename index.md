@@ -28,7 +28,7 @@ Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Ch
 
 **Prozesszeit**
 
-. Die zweite Schwachstelle  entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor dieser Schwachstelle wird das Studierendensekretariat innerhalb von zwei bis drei Tagen über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden wäre, wird dies Guthaben von dem Sekretariat überträgt und Studierender über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierender über einen Abholungstermin benachrichtigt.
+. Die zweite Schwachstelle (XOR-Gateways) entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor dieser Schwachstelle wird das Studierendensekretariat innerhalb von zwei bis drei Tagen über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden wäre, wird dies Guthaben von dem Sekretariat überträgt und Studierender über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierender über einen Abholungstermin benachrichtigt.
 
 **Prozesskosten**
 
