@@ -23,7 +23,8 @@ _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi ,
 **Prozessqualität**
 1.	Die erste Schwachstelle (XOR- Gateways) entscheidet, ob das Chip Defekt ist oder nicht.
 Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Chip oder ein Antenne Problem hat, wird der Prozess fortgesetzt. Im Fall die Karte ein anderes Problem (Wie zum Beispiel: Karte ist abgelaufen oder gesperrt, Die Karte hat ein Software Problem) hat, dann wird der Prozess beendet.
-Prozess 
+
+**Prozess**
 
 2.	Die zweite Schwachstelle entscheidet, ob die defekte Karte gutgeschrieben ist oder nicht.  Vor diese Schwachstelle wird die Studierendensekretariat innerhalb von zwei bis drei Tage über die Karte Guthaben benachrichtigt. Falls Guthaben vorhanden waren, wird diese Guthaben von Sekretariat übertragen und Studierende über einen Abholungstermin benachrichtigt. Im Fall kein Guthaben vorhanden wird Studierende über einen Abholungstermin benachrichtigt.
 
