@@ -1,6 +1,6 @@
 _**Ngo onla fanny, Eric Martial Tindo, Arnold Marius N. Nkouamou, Guerin Fossi , Dieffi T.Arold kevin**_
 
--Prozesszweck: _Bearbeitung einer Defektcard._
+-Prozesszweck:_Bearbeitung einer Defektcard._
 
 -Kunden und Erwartung:_Der Studierende erwartet auf  seine neue Campuscard._
 
