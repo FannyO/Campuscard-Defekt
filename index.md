@@ -41,9 +41,11 @@ Hier überprüft das Rechenzentrum die Studierendenkarte. Falls die Karte ein Ch
 
 **.Prozesszeit**
 
-´´Als Lösungen : 1. Die Aktivität wird durch einen Service Task ersetzt´´
+ . Die Aktivität wird durch einen Service Task ersetzt.
+  
+ **.Prozesskosten**
 
-               ´´2. Automatisieren von noch mehr prozessschritten´´
+ . Automatisieren von noch mehr prozessschritten.
                 
 
 
