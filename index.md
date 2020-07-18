@@ -39,7 +39,7 @@ Die Guthaben Prüfung durch Studentenwerk Potsdam könnte vermieden werden, so k
 
 **.Prozesszeit**
 
-2) 3) Lösung: Die Aktivität wird durch einen Service Task ersetzt 
+2)3) Lösung: Die Aktivität wird durch einen Service Task ersetzt 
 3) Automatisieren von noch mehr prozessschritten 
 
 
